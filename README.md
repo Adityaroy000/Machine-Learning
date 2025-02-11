@@ -42,7 +42,7 @@ Ensure you have the necessary libraries installed:
 
 pip install numpy pandas matplotlib seaborn scikit-learn
 
-🚀 ## **Future Plans**
+## **Future Plans**
 
 Adding more ML algorithms (Decision Trees, Random Forest, SVM, etc.)
 
