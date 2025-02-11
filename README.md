@@ -1,4 +1,4 @@
-## **Machine Learning Algorithms Repository
+## **Machine Learning Algorithms Repository**
 
 Welcome to my Machine Learning Algorithms repository! 🚀 This repository serves as a personal collection of ML algorithms and techniques that I am exploring and implementing. It acts as a reference for me to understand and revise key concepts in machine learning.
 
