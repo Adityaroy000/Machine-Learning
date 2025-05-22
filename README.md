@@ -44,7 +44,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## **Future Plans**
 
-Adding more ML algorithms (Decision Trees, Random Forest, SVM, etc.)
+Adding more ML algorithms (Random Forest, SVM, etc.)
 
 Implementing feature scaling techniques
 
